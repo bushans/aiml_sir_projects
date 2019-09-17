@@ -1,2 +1,2 @@
-# aiml_sir_projects
-My AIML Projects
+# aiml_works
+The main master template repo of my aiml works
