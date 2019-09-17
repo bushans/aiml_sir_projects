@@ -1,2 +1,2 @@
 # aiml_works
-The main master template repo of my aiml works
+The main master repo of my AI/ML works
